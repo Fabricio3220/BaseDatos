@@ -6,6 +6,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 /**
  * Created by Gavilanes on 28/01/2015.
+ * modificado hoy
  */
 public class BaseDatos extends SQLiteOpenHelper {
     public BaseDatos(Context context, String bnombre, SQLiteDatabase.CursorFactory factory,
